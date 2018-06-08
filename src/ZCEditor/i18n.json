@@ -1,0 +1,18 @@
+{
+    "chinese":{
+        "bold":"粗体",
+        "italic":"斜体",
+        "underline":"下划线",
+        "strikethrought":"删除线",
+        "clear":"清除",
+        "code":"代码"
+    },
+    "english":{
+        "bold":"BOLD",
+        "italic":"ITALIC",
+        "underline":"UNDERLINE",
+        "strikethrought":"STRIKETHROUGHT",
+        "clear":"Clear",
+        "code":"code"
+    }
+}
